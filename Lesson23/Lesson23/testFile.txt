@@ -1,0 +1,14 @@
+Pentagon : side lenght 8.8 and Area = 133.2337699016096
+rectangular triangle : sideA 15.5, sideB 16.9 and Area = 130.975
+Quadrilatera : width 5, length 6 and Area = 30
+Hexagon : side lenght 9 and Area = 210.4441731196186
+Dog : name Raksas, Gender Male, is hungry True, is tired True
+Dog : name Dange, Gender Female, is hungry True, is tired True
+Dog : name Bandele, Gender Female, is hungry True, is tired True
+Cat : name Raine, Gender Female, is hungry True, is tired True
+Cat : name Ryzius, Gender Male, is hungry True, is tired True
+Cat : name Karamele, Gender Female, is hungry True, is tired True
+Carp : name Carp2, Gender Female, is hungry False
+Carp : name Carp1, Gender Male, is hungry False
+Bass : name Bass1, Gender Female, is hungry False
+Bass : name Bass1, Gender Female, is hungry False
